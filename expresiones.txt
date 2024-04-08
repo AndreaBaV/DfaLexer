@@ -1,1 +1,4 @@
-amarillo = 1.986e-24+80000
+b=7
+a = 32.4 *(-8.6 - b)/       6.1E-8
+d = a ^ b # Esto es un comentario
+4+2+4+ 8= b
